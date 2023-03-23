@@ -1,0 +1,5 @@
+python基础
+python接口自动化
+pythonWeb自动化
+pythonApp自动化
+Jekins持续集成

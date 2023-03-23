@@ -1,0 +1,8 @@
+- account:
+    username: admin
+    password: 111111
+- database:
+    ip: 10.145.6.12
+    port: 3306
+    username: admin
+    password: 16#XrC$T39aR
