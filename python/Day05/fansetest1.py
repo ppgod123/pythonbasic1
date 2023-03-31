@@ -28,3 +28,12 @@ else:
     print(getattr(andy,'name'))
     print(hasattr(andy,'name'))
     print(hasattr(andy,'age'))
+    delattr(andy,'name')
+    print(hasattr(andy,'name'))
+#外部函数映射到类内部函数
+def walk():
+    print("我在走路！！！！")
+
+setattr(andy,'eat',walk)
+getattr(andy,'eat')()
+andy.eat()
